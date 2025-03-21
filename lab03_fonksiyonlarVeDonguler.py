@@ -1,4 +1,4 @@
-def pi(): #parametre almayan değer döndüren fonksiyon
+def pi(): #parametre almayan ve değer döndüren fonksiyon
     return 3.14
 
 def cemberinCevresi(yaricap): #parametre alan ve değer döndüren fonksiyon
@@ -9,7 +9,7 @@ def reklam(): #parametre almayan ve değer döndürmeyen fonksiyon
     print(mesaj)
     print(len(mesaj)*"-")
 
-def sinifBas(x, y):
+def sinifBas(x, y): #parametre alan ve değer döndürmeyen fonksiyon
     for say in range(y):
         print((say+1)*(x+" "))
         
