@@ -15,3 +15,7 @@ Bu repository aracılığı ile dersimiz kapsamında yaptığımız çalışmala
 <br>**reklam()** parametre almayan ve değer döndürmeyen bir fonksiyondur.
 <br>**sinifBas(x, y)** parametre alan ve değer döndürmeyen bir fonksiyondur.<br><br>
 **Program:** [Programa ulaşmak için tıklayınız.](https://github.com/Haktan-AKCAY/PGA2028C/blob/main/lab03_fonksiyonlarVeDonguler.py)
+
+## LAB - Etkinlik 04
+**Açıklama:** Bu programımızda python programlama dilindeki try except bloğunu yani hata yakalama özelliğini kullanıyoruz. 
+**Program:** [Programa ulaşmak için tıklayınız.](https://github.com/Haktan-AKCAY/PGA2028C/blob/main/Lab04_A.py)
