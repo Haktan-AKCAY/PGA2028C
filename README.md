@@ -17,5 +17,5 @@ Bu repository aracılığı ile dersimiz kapsamında yaptığımız çalışmala
 **Program:** [Programa ulaşmak için tıklayınız.](https://github.com/Haktan-AKCAY/PGA2028C/blob/main/lab03_fonksiyonlarVeDonguler.py)
 
 ## LAB - Etkinlik 04
-**Açıklama:** Bu programımızda python programlama dilindeki try except bloğunu yani hata yakalama özelliğini kullanıyoruz. 
+**Açıklama:** Bu programımızda python programlama dilindeki try except bloğunu yani hata yakalama özelliğini kullanıyoruz. <br><br>
 **Program:** [Programa ulaşmak için tıklayınız.](https://github.com/Haktan-AKCAY/PGA2028C/blob/main/Lab04_A.py)
