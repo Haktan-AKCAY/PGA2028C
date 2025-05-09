@@ -19,3 +19,8 @@ Bu repository aracılığı ile dersimiz kapsamında yaptığımız çalışmala
 ## LAB - Etkinlik 04
 **Açıklama:** Bu programımızda python programlama dilindeki try except bloğunu yani hata yakalama özelliğini kullanıyoruz. <br><br>
 **Program:** [Programa ulaşmak için tıklayınız.](https://github.com/Haktan-AKCAY/PGA2028C/blob/main/Lab04_A.py)
+
+
+## LAB - Etkinlik 05
+**Açıklama:** Pazardan alınması gerekenleri tek tek bir pansiyonda oda oda dolaşarak topluyoruz ve pazara gidip satın almamız gereken bu listedeki ögeleri birleştiriyoruz. Bu programımızda python proglamlama dilindeki liste değişkenini kullanıyoruz.
+**Program:** [Programa ulaşmak için tıklayınız.](https://github.com/Haktan-AKCAY/PGA2028C/blob/main/lab05_PazarListesi.py)
